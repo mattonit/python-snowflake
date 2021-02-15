@@ -18,3 +18,7 @@ pythonenv*
 .vscode
 .idea
 .code
+*.egg
+*.egg-info
+dist
+build
